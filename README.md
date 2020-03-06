@@ -27,15 +27,6 @@ The process will start running on a pm2 instance.
 
 ---
 
-## Typescript vs Javascript
-
-Typescript is ES6 with strong typing.
-
-"Typescript is Javascript for application-scale development" - TS definition.
-
-Read more: https://www.typescriptlang.org/
-___
-
 ## Project structure
 
 ```
