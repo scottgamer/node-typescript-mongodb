@@ -40,5 +40,5 @@ getConnectionOptions()
     });
   })
   .catch(error => {
-    Logger.err.error(error);
+    Logger.err.error(error.message);
   });
